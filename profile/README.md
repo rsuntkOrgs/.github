@@ -7,4 +7,4 @@
 - [@hiratazx](https://github.com/hiratazx) - For helping and owner of Shirayuki Project
 
 ### Code of Conduct
-- You're allowed to fork, but don't forget to mention 'rsuntk'
+- You're allowed to fork and redistribute, but don't forget to mention me, rsuntk.
