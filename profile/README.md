@@ -1,4 +1,4 @@
-# Rissu's Laboratorium
+# Rissu Opensource Orgs.
 ### What we do?
 - Try to improve Samsung kernels
 
